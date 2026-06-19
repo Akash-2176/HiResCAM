@@ -1,0 +1,6 @@
+{
+  "name": "GTCam",
+  "description": "DSLR-inspired photography app for Realme GT 7T",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
